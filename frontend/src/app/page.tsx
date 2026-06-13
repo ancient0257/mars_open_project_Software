@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
-import { Sparkles, LayoutDashboard, MessageSquare, Github, User, X } from "lucide-react";
+import { Sparkles, LayoutDashboard, MessageSquare, User, X } from "lucide-react";
 import ServerStatus from "@/components/dashboard/ServerStatus";
 import DashboardWidgets from "@/components/dashboard/DashboardWidgets";
 import ChatPanel from "@/components/chat/ChatPanel";

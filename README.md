@@ -89,8 +89,8 @@ Students at IIT Roorkee waste time navigating 5+ disconnected portals — a lega
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/campus-intel.git
-cd campus-intel
+git clone https://github.com/ancient0257/mars_open_project_Software.git
+cd mars_open_project_Software
 npm run install:all
 ```
 
