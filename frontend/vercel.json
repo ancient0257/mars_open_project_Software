@@ -1,0 +1,13 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "env": {
+    "ANTHROPIC_API_KEY": "@anthropic-api-key",
+    "LIBRARY_MCP_URL": "@library-mcp-url",
+    "CAFETERIA_MCP_URL": "@cafeteria-mcp-url",
+    "EVENTS_MCP_URL": "@events-mcp-url",
+    "ACADEMICS_MCP_URL": "@academics-mcp-url"
+  }
+}
