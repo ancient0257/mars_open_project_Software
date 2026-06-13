@@ -38,3 +38,21 @@ services:
     envVars:
       - key: PORT
         value: 3004
+
+  - type: web
+    name: campus-intel-frontend
+    env: node
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: DEEPSEEK_API_KEY
+        sync: false
+      - key: LIBRARY_MCP_URL
+        value: https://campus-mcp-library.onrender.com
+      - key: CAFETERIA_MCP_URL
+        value: https://campus-mcp-cafeteria.onrender.com
+      - key: EVENTS_MCP_URL
+        value: https://campus-mcp-events.onrender.com
+      - key: ACADEMICS_MCP_URL
+        value: https://campus-mcp-academics.onrender.com
