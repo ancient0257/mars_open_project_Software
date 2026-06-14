@@ -47,7 +47,7 @@ services:
     startCommand: npm start
     envVars:
       - key: DEEPSEEK_API_KEY
-        sync: false
+        value: sk-177a438c90154ddaa005c1a3839b73c9
       - key: LIBRARY_MCP_URL
         value: https://campus-mcp-library.onrender.com
       - key: CAFETERIA_MCP_URL
