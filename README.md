@@ -2,6 +2,8 @@
 
 > **IIT Roorkee Finance Club Open Projects 2026 — Problem Statement 1**
 
+🔗 **Live Demo:** [campus-intel-frontend.onrender.com](https://campus-intel-frontend.onrender.com)
+
 A full-stack web application that unifies fragmented campus data sources (library, cafeteria, events, academics) into a single dashboard, powered by an AI assistant that routes natural-language queries to independent **MCP (Model Context Protocol) servers** in real-time.
 
 ---
