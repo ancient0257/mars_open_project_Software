@@ -43,7 +43,7 @@ Students at IIT Roorkee waste time navigating 5+ disconnected portals — a lega
               /api/dashboard    /api/chat (orchestrator)
                       │              │
                       │     ┌────────▼──────────┐
-                      │     │  Anthropic Claude  │
+                      │     │ ai model
                       │     │  (tool-use mode)   │
                       │     └────────┬──────────┘
                       │              │ decides which tools to call
