@@ -507,17 +507,3 @@ To add a new data source (e.g., a Transport/Bus server):
 4. The AI will automatically discover and use it — **no other changes needed**
 
 This is the power of the MCP architecture: each server is fully independent and self-describing.
-
----
-
-## 👤 Author
-
-**[Your Name]** — IIT Roorkee  
-Finance Club Open Projects 2026  
-GitHub: [@your-username](https://github.com/your-username)
-
----
-
-## 📄 License
-
-MIT
