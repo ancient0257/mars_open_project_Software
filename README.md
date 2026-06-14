@@ -1,6 +1,5 @@
 # 🏛️ CampusIQ — Unified Campus Intelligence Dashboard
 
-> **IIT Roorkee Finance Club Open Projects 2026 — Problem Statement 1**
 
 🔗 **Live Demo:** [campus-intel-frontend.onrender.com](https://campus-intel-frontend.onrender.com)
 
